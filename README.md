@@ -9,6 +9,7 @@
 - 💼 &nbsp; WordPress developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Trying out latest technology trends and photography as hobbies/side hustles.
+- 📫 &nbsp; Connect With me Search "go4krishanu" available all over the web.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
