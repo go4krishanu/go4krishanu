@@ -6,7 +6,7 @@
 const krishanu = {
     pronouns: "He" | "Him",
     code: ["C/C++", "PHP", "Python", "Javascript", "Java"]
-    askMeAbout: ["Cybersecurity", "Web Development", "Digital Marketing", "Ethical Hacking", "Photography"]
+    askMeAbout: ["Cybersecurity", "Web Development", "Digital Marketing", "Ethical Hacking", "Bug Bounty"]
     technologies: {
         frontEnd: {
             ["HTML", "CSS", "JavaScript", "Bootstrap", "React"],
