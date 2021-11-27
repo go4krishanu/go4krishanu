@@ -43,7 +43,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 </div>  
 
 
-⭐️ From [go4krishanu](https://github.com/go4krishanu)
+With ❤ From [Krishanu Chakraborty](https://krishanuchakraborty.me/)
 
 
 
