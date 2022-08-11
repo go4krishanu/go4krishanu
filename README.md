@@ -6,17 +6,17 @@
 const krishanu = {
     pronouns: "He" | "Him",
     code: ["C/C++", "PHP", "Python", "Javascript", "Java"]
-    askMeAbout: ["Cybersecurity", "Web Development", "Digital Marketing", "Ethical Hacking", "Bug Bounty"]
+    askMeAbout: ["Cybersecurity", "Web Development", "DevOps", "DevSecOps", "Bug Bounty"]
     technologies: {
         frontEnd: {
             ["HTML", "CSS", "JavaScript", "Bootstrap", "React"],
         },
         backEnd: {
-              ["PHP", "Python", "Java"],
+              ["PHP", "Python", "Java"]
         },
-        cms: ["WordPress", "Joomla", "Sopify"],
-        databases: ["mongo", "MySql", "sqlite"],
-    },
+        cms: ["WordPress", "Joomla", "Sopify"]
+        databases: ["mongo", "MySql", "sqlite"]
+    }
     
 };
 ```
