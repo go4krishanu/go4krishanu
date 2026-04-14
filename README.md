@@ -1,128 +1,114 @@
 <div align="center">
 
-# 👋 Hey, I'm Krishanu Chakraborty
-### `root@whoami` | Full Stack Web Developer | AI-Powered Web Solutions
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;WordPress+%7C+SEO+%7C+Performance+Optimization;AI-Powered+Web+Solutions;Secure+%26+Scalable+Digital+Products" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Krishanu%20Chakraborty&fontAlign=50&fontAlignY=40&color=0:0f0f0f,100:1a1a1a&fontColor=ffffff&animation=fadeIn&fontSize=42&desc=Full%20Stack%20Developer%20•%20Performance%20Engineer%20•%20AI%20Workflows&descAlignY=60&descSize=18" />
 
 <br/>
 
-**Building fast, scalable, AI-powered web experiences with security and performance in mind.**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Fast+%26+Scalable+Digital+Experiences;SEO+Optimized+%7C+Secure+%7C+AI-Powered;Modern+Web+Architecture+%26+Performance" />
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://krishanuchakraborty.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/go4krishanu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:shanu.16k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# ⚡ About Me
 
 ```javascript
 const krishanu = {
-    role: "Full Stack Web Developer",
-    experience: "4+ years",
-    focus: [
-        "High-Converting Websites",
-        "SEO Optimization",
-        "Performance Engineering",
-        "AI-Powered Workflows",
-        "Secure Web Development"
-    ],
-    tools: ["Cursor", "Claude Code", "GitHub Copilot", "Elementor AI"],
-    currentMission: "Building fast, secure, and scalable digital products"
-};
+  role: "Full Stack Web Developer",
+  experience: "4+ years",
+  specialty: [
+    "WordPress Architecture",
+    "Performance Engineering",
+    "Technical SEO",
+    "AI-Assisted Development",
+    "Security Optimization"
+  ],
+  mission: "Building modern digital products that convert"
+}
 ```
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Core Expertise
 
 <div align="center">
 
-### Development
-![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-### AI & Productivity
-![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude_Code-000?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=github)
-
-### Dev Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![GA4](https://img.shields.io/badge/GA4-000?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=js,php,python,react,mysql,wordpress,docker,aws,git,figma" />
 
 </div>
 
 ---
 
-## 🚀 What I’m Currently Working On
+# 🎯 Current Focus
 
 <div align="center">
 
-✨ Building high-converting WordPress & Shopify websites  
-⚡ Improving Core Web Vitals and technical SEO  
-🤖 Exploring AI-assisted development workflows with Cursor & Claude Code  
-🔐 Strengthening web security and performance optimization  
-📈 Implementing advanced GA4 + GTM event tracking  
+⚡ Performance Optimization & Core Web Vitals  
+🔐 Secure and scalable web architecture  
+🤖 AI-first workflows using Cursor & Claude Code  
+📈 Conversion optimization and analytics  
+🎨 Premium responsive user experiences  
 
 </div>
 
 ---
 
-## 🎯 Featured Expertise
+# ✨ Impact
 
 <div align="center">
 
-| Expertise | Impact |
-|-----------|--------|
-| ⚡ Performance Optimization | Improved site speed by **60–80%** |
-| 🔍 Technical SEO | Better rankings & organic traffic |
-| 🤖 AI-Powered Development | Faster delivery & workflow automation |
-| 🔐 Web Security | Secure and scalable deployments |
-| 📊 Analytics & Tracking | Better conversion insights |
+<table>
+<tr>
+<td align="center"><h2>80%</h2><sub>Speed Improvement</sub></td>
+<td align="center"><h2>4+</h2><sub>Years Experience</sub></td>
+<td align="center"><h2>40%</h2><sub>Traffic Growth</sub></td>
+<td align="center"><h2>100+</h2><sub>Successful Deliveries</sub></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Selected Projects
+# 🏆 Featured Projects
 
-### 🚗 Kewl Motors Website
-Custom WordPress automotive website with responsive UI and **50–60% faster load speed**
+### 🚗 Kewl Motors
+High-performance automotive website with custom WordPress architecture
 
-### 🛍️ LA Skinnix E-commerce
-Secure WooCommerce store with **payment gateway integration + SEO optimization**
+### 🛍️ LA Skinnix
+Modern WooCommerce storefront with conversion-focused checkout
 
 ### 🏗️ EBC Siliguri
-Mobile-first responsive website for a civil engineering firm with **performance-focused architecture**
+Responsive enterprise-grade website optimized for speed and UX
 
 ---
 
-## 🌐 Connect With Me
+# 🎖️ Badges & Achievements
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-krishanuchakraborty.com-000?style=for-the-badge)](https://krishanuchakraborty.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-go4krishanu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/go4krishanu)
-[![Email](https://img.shields.io/badge/Email-shanu.16k%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shanu.16k@gmail.com)
-
-</div>
-
----
-
-## 🏅 Achievements
 
 [![@go4krishanu's Holopin board](https://holopin.io/api/user/board?user=go4krishanu)](https://holopin.io/@go4krishanu)
 
+</div>
+
 ---
 
 <div align="center">
 
-### 💡 Turning ideas into high-performance digital experiences
-
-Made with ❤️ by **Krishanu**
+With ❤ From [Krishanu Chakraborty](https://krishanuchakraborty.com/)
 
 </div>
